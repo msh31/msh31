@@ -8,8 +8,6 @@
 
 # Languages
 <p float="left">
- <img src="https://i.imgur.com/P6mJSlU.png" alt="HTML5" width=150 height=50/>
- <img src="https://i.imgur.com/BmMnKI7.png" alt="CSS3" width=150 height=50/>
  <img src="https://i.imgur.com/xPbs2aG.png" alt="JavaScript" width=150 height=50/>
  <img src="https://i.imgur.com/tBK5Yza.png" alt="PHP" width=150 height=50/>
  <img src="https://i.imgur.com/3Kjm5aL.png" alt="C#" width=150 height=50/>
