@@ -12,6 +12,7 @@
  <img src="https://i.imgur.com/tBK5Yza.png" alt="PHP" width=150 height=50/>
  <img src="https://i.imgur.com/3Kjm5aL.png" alt="C#" width=150 height=50/>
  <img src="https://i.imgur.com/A142MHq.png" alt="Python" width=150 height=50/>
+  <img src="https://i.imgur.com/LBYa4hP.png" alt="LUA" width=150 height=50/>
 </p>
 
 # Libraries
