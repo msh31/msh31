@@ -30,6 +30,6 @@
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=msh31&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msh31&theme=vue-dark&hide_border=true" alt="GitHub Streak"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=msh31&theme=vue-dark&hide_border=true" alt="GitHub Streak"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msh31&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
 </p>
