@@ -1,36 +1,44 @@
-<h1 align="center">Hi, I'm Marco</h1>
+# 👋 Hi, I'm Marco!
 
-###
+I'm a first-year student based in the Netherlands studying software development.
 
-<p align="center">
-  I'm a first-year student based in the Netherlands where I currently study software development at Alfa-College.
-</p>
+## 💻 My Tech Stack
 
-###
+<div align="center">
+  <div>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="LUA"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+    <img src="https://img.shields.io/badge/Avalonia_UI-8B0000?style=for-the-badge" alt="AvaloniaUI"/>
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+    <img src="https://img.shields.io/badge/Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Mint"/>
+    <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali"/>
+    <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch"/>
+  </div>
+</div>
 
-<h2 align="center">Languages</h2>
-<p align="center">
-  <img src="https://i.imgur.com/xPbs2aG.png" alt="JavaScript" width=150 height=50/>
-  <img src="https://i.imgur.com/tBK5Yza.png" alt="PHP" width=150 height=50/>
-  <img src="https://i.imgur.com/3Kjm5aL.png" alt="C#" width=150 height=50/>
-  <img src="https://i.imgur.com/A142MHq.png" alt="Python" width=150 height=50/>
-  <img src="https://i.imgur.com/LBYa4hP.png" alt="LUA" width=150 height=50/>
-</p>
+## 🚀 Current Focus
 
-###
+- **🌱 Learning:** ``PHP``, ``Go``, and deepening my Linux knowledge
+- **🔍 Interests:** ``Cybersecurity (Cryptography, Penetration Testing)``, ``Malware Analysis`` & ``Reverse Engineering``
+- **🔮 Future Learning:** ``C`` and ``Assembly``
 
-<h2 align="center">Libraries</h2>
-<p align="center">
-  <img src="https://i.imgur.com/pGWr2Q5.png" alt="Bootstrap" width=150 height=50/>
-  <img src="https://i.imgur.com/S5vWjs8.png" alt="TailwindCSS" width=150 height=50/>
-  <img src="https://i.imgur.com/BRoqkCN.png" alt="AvaloniaUI" width=150 height=50/>
-</p>
+## 🐧 Linux Experience
+I use Ubuntu daily and have experience with Mint, Arch, Debian, BunsenLabs, and Kali
 
-###
+## 📫 Connect With Me
+- [website](https://marco007.dev) - [discord](https://discord.com/users/386204172258770954)
 
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msh31&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=msh31&theme=vue-dark&hide_border=true" alt="GitHub Streak"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msh31&theme=dark&show_icons=true&hide_border=true&layout=compact&&count_private=true" alt="Top Languages"/>
-</p>
+---
+
+Feel free to reach out for collaborations!
