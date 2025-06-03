@@ -29,7 +29,7 @@ I'm a first-year student based in the Netherlands studying software development.
 
 ## 🚀 Current Focus
 
-- **🌱 Learning:** ``PHP``, ``Go``, and deepening my Linux knowledge
+- **🌱 Learning:** ``PHP``, ``Next.JS`` and deepening my Linux knowledge
 - **🔍 Interests:** ``Cybersecurity (Cryptography, Penetration Testing)``, ``Malware Analysis`` & ``Reverse Engineering``
 - **🔮 Future Learning:** ``C`` and ``Assembly``
 
