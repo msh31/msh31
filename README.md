@@ -34,7 +34,8 @@ I'm a first-year student based in the Netherlands studying software development.
 - **🔮 Future Learning:** ``Assembly`` & ``C++``
 
 ## 🐧 Linux Experience
-I use Ubuntu daily and have experience with Mint, Arch, Debian, BunsenLabs, and Kali
+Currently using [Fedora Sericea](https://docs.fedoraproject.org/en-US/fedora-sericea/)
+In the past I have used Mint, Arch, Ubuntu and Kali
 
 ## 📫 Connect With Me
 - [website](https://marco007.dev) - [discord](https://discord.com/users/386204172258770954)
