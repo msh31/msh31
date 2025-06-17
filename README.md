@@ -17,11 +17,12 @@ I'm a first-year student based in the Netherlands studying software development.
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
     <img src="https://img.shields.io/badge/Avalonia_UI-8B0000?style=for-the-badge" alt="AvaloniaUI"/>
+    <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+    <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Sway Atomic"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-    <img src="https://img.shields.io/badge/Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Mint"/>
     <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali"/>
     <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch"/>
   </div>
@@ -29,12 +30,12 @@ I'm a first-year student based in the Netherlands studying software development.
 
 ## 🚀 Current Focus
 
-- **🌱 Learning:** ``PHP``, ``Next.JS`` & ``C`` and deepening my Linux knowledge
+- **🌱 Learning:** ``PHP``, ``Next.JS``, ``Astro`` & ``C`` and deepening my Linux knowledge
 - **🔍 Interests:** ``Cybersecurity (Cryptography, Penetration Testing)``, ``Malware Analysis`` & ``Reverse Engineering``
 - **🔮 Future Learning:** ``Assembly`` & ``C++``
 
 ## 🐧 Linux Experience
-Currently using [Fedora Sericea](https://docs.fedoraproject.org/en-US/fedora-sericea/)
+Currently using [Fedora Sericea](https://docs.fedoraproject.org/en-US/fedora-sericea/) & [ParrotOS (in a VM)](https://parrotsec.org/) \
 In the past I have used Mint, Arch, Ubuntu and Kali
 
 ## 📫 Connect With Me
