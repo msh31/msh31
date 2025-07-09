@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marco!
 
-I'm a first-year student based in the Netherlands studying software development.
+I'm a student based in the Netherlands studying software development.
 
 ## 💻 My Tech Stack
 
@@ -12,6 +12,7 @@ I'm a first-year student based in the Netherlands studying software development.
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -30,13 +31,17 @@ I'm a first-year student based in the Netherlands studying software development.
 
 ## 🚀 Current Focus
 
-- **🌱 Learning:** ``PHP``, ``Next.JS``, ``Astro`` & ``C`` and deepening my Linux knowledge
+- **🌱 Learning:** ``C++``, ``Next.JS``, & ``C`` and deepening my Unix knowledge
 - **🔍 Interests:** ``Cybersecurity (Cryptography, Penetration Testing)``, ``Malware Analysis`` & ``Reverse Engineering``
-- **🔮 Future Learning:** ``Assembly`` & ``C++``
+- **🔮 Future Learning:** ``Assembly``
+- **📚 Backlog Learning:** ``PHP``, ``C``, ``Astro`` 
 
-## 🐧 Linux Experience
-Currently using [Fedora Sericea](https://docs.fedoraproject.org/en-US/fedora-sericea/) & [ParrotOS (in a VM)](https://parrotsec.org/) \
-In the past I have used Mint, Arch, Ubuntu and Kali
+## 🐧 OS Experience
+Currently using MacOS Sequoia on a 2021 M1 Pro MacBook Pro \
+with Windows 11 on my PC \
+I used [Fedora Sericea](https://docs.fedoraproject.org/en-US/fedora-sericea/) before that
+
+and I have also used Ubuntu, Mint, Kali and Arch in the past.
 
 ## 📫 Connect With Me
 - [website](https://marco007.dev) - [discord](https://discord.com/users/386204172258770954)
