@@ -22,6 +22,7 @@ I'm a student based in the Netherlands studying software development.
   </div>
   <div>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+    <img src="https://img.shields.io/badge/MacOS-f0f0f0?logo=apple&logoColor=black&style=for-the-badge" alt="MacOS"/>
     <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Sway Atomic"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
     <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali"/>
@@ -31,7 +32,7 @@ I'm a student based in the Netherlands studying software development.
 
 ## 🚀 Current Focus
 
-- **🌱 Learning:** ``C++``, ``Next.JS``, & ``C`` and deepening my Unix knowledge
+- **🌱 Learning:** ``C++``, ``Next.JS`` and deepening my Unix knowledge
 - **🔍 Interests:** ``Cybersecurity (Cryptography, Penetration Testing)``, ``Malware Analysis`` & ``Reverse Engineering``
 - **🔮 Future Learning:** ``Assembly``
 - **📚 Backlog Learning:** ``PHP``, ``C``, ``Astro`` 
