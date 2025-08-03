@@ -1,6 +1,6 @@
 # Hey! 👋 I'm Marco
 
-🎓 studying Software Development in The Netherlands 🇳🇱  
+🎓 Studying Software Development in The Netherlands 🇳🇱  
 💻 Passionate about systems programming and understanding how technology works at the deepest level  
 🚀 Over 30 repositories exploring everything from malware analysis to game development
 
@@ -11,29 +11,14 @@
 - **Assembly Language**: Learning x86-64 architecture and low-level programming
 - **Game Development**: 2D graphics programming and physics simulation
 
----
-
 ## 🛠️ What I Build With
 
-### **Systems & Low-Level**
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) Building games, security tools, and network applications  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) Cryptography implementations and system utilities  
-![Assembly](https://img.shields.io/badge/Assembly-%23654FF0.svg?style=flat&logo=assemblyscript&logoColor=white) Learning x86-64 fundamentals and register operations  
-
-### **Application Development**
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) Desktop applications with AvaloniaUI and CLI applications  
-![Go](https://img.shields.io/badge/Go-%2000ADD8.svg?style=flat&logo=go&logoColor=white) CLI tools and algorithmic implementations  
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) Web applications with security focus  
-
-### **Web Technologies**
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) Interactive frontends and a casino webgame  
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) Modern styling and responsive design  
-![Astro](https://img.shields.io/badge/Astro-%232C2052.svg?style=flat&logo=astro&logoColor=white) Static site generation  
-
-### **Infrastructure & Tools**
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) Fedora, Ubuntu, Kali, Arch experience  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) Containerization and deployment  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) Version control and collaborative development  
+| Category | Technologies | What I Use Them For |
+|----------|-------------|-------------------|
+| **Systems & Low-Level** | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-%23654FF0.svg?style=flat&logo=assemblyscript&logoColor=white) | Games, security tools, network applications, cryptography, x86-64 fundamentals |
+| **Application Development** | ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2000ADD8.svg?style=flat&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=flat&logo=mariadb&logoColor=white) | Desktop apps with AvaloniaUI, CLI tools, web applications, database design |
+| **Web Technologies** | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-%232C2052.svg?style=flat&logo=astro&logoColor=white) | Interactive frontends, casino webgame, modern styling, static sites |
+| **Infrastructure & Tools** | ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=flat&logo=apple&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) | Windows development, Fedora/Ubuntu/Kali/Arch, macOS, containerization, version control |
 
 ## 🧠 Featured Projects
 
