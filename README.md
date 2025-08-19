@@ -31,8 +31,8 @@ A 2D platformer where you play as Spark, rekindling ancient Light Beacons in a w
 ### **[Marco's Casino](https://casino.marco007.dev)**
 Interactive blackjack web game built with JavaScript and TailwindCSS. Features clean UI design, smooth gameplay mechanics, and responsive controls. [Try the demo →](https://casino.marco007.dev)
 
-### **[Portfolio Website](https://marco007.dev)**
-Modern portfolio site built with JavaScript and TailwindCSS, featuring smooth animations, bilingual support, and responsive design across all devices.
+### **[HTTP Server](https://github.com/msh31/http-server)**
+A simple HTTP 1.1 server I wrote from scratch in C++ to undertand the HTTP protocol
 
 ---
 
