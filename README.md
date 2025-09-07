@@ -30,7 +30,7 @@ A simple HTTP 1.1 server I wrote from scratch in C++ to undertand the HTTP proto
 A will-be 2D platformer written in C++
 
 ### **[Malware Analysis Learning Journey](https://github.com/msh31/system-gatherer)**
-Educational malware development for cybersecurity defense - complete with isolated lab environment, reconnaissance techniques, and persistence mechanisms. Built with C++ for Windows systems analysis.
+Educational malware development for cybersecurity defense - complete with isolated lab environment, reconnaissance techniques, and persistence mechanisms.
 
 ---
 
