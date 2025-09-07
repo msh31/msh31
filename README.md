@@ -6,9 +6,7 @@
 
 ## 🔥 Current Focus
 
-- **Cybersecurity**: Malware analysis, reverse engineering, and penetration testing
-- **Systems Programming**: Memory management, networking, and performance optimization  
-- **Assembly Language**: Learning x86-64 architecture and low-level programming
+- **C++ Security SDK**: A security related SDK in C++ with modular architecture
 - **Game Development**: 2D graphics programming and physics simulation
 
 ## 🛠️ What I Build With
@@ -22,17 +20,17 @@
 
 ## 🧠 Featured Projects
 
-### **[Malware Analysis Learning Journey](https://github.com/msh31/system-gatherer)**
-Educational malware development for cybersecurity defense - complete with isolated lab environment, reconnaissance techniques, and persistence mechanisms. Built with C++ for Windows systems analysis.
-
-### **[Aetherbound](https://github.com/msh31/aetherbound)**
-A 2D platformer where you play as Spark, rekindling ancient Light Beacons in a world consumed by darkness. Built with C++ and Raylib, featuring custom physics and lighting systems.
-
-### **[Marco's Casino](https://casino.marco007.dev)**
-Interactive blackjack web game built with JavaScript and TailwindCSS. Features clean UI design, smooth gameplay mechanics, and responsive controls. [Try the demo →](https://casino.marco007.dev)
+### **[Sentinel ⚒️](https://github.com/msh31/sentinel)**
+A Windows security SDK with modular architecture featuring; anti debug, vm detection, persistence and much more!
 
 ### **[HTTP Server](https://github.com/msh31/http-server)**
 A simple HTTP 1.1 server I wrote from scratch in C++ to undertand the HTTP protocol
+
+### **[Aetherbound](https://github.com/msh31/aetherbound)**
+A will-be 2D platformer written in C++
+
+### **[Malware Analysis Learning Journey](https://github.com/msh31/system-gatherer)**
+Educational malware development for cybersecurity defense - complete with isolated lab environment, reconnaissance techniques, and persistence mechanisms. Built with C++ for Windows systems analysis.
 
 ---
 
