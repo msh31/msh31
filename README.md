@@ -4,9 +4,10 @@
 💻 Passionate about systems programming and understanding how technology works at the deepest level  
 🚀 Over 30 repositories exploring everything from malware analysis to game development
 
-## 🔥 Current Focus
+## 🔥 Current Focus __(in order)__
 
-- **C++ Security SDK**: A security related SDK in C++ with modular architecture
+- [HostCTL](https://github.com/msh31/hostctl): A C++ WAMP/XAMPP manager for a school assignment
+- [Sentinel](https://github.com/msh31/sentinel): A security related SDK in C++ with modular architecture
 - **Game Development**: 2D graphics programming and physics simulation
 
 ## 🛠️ What I Build With
