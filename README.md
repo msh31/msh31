@@ -8,7 +8,7 @@
 
 - [HostCTL](https://github.com/msh31/hostctl): A C++ WAMP/XAMPP manager for a school assignment
 - [Sentinel](https://github.com/msh31/sentinel): A security related SDK in C++ with modular architecture
-- **Game Development**: 2D graphics programming and physics simulation
+- [esp32 mesh network](https://github.com/msh31/esp32-mesh-network): A handler-agent network using the esp-now protocol and 3 esp32's
 
 ## 🛠️ What I Build With
 
