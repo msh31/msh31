@@ -1,26 +1,23 @@
-## Marco H.
+## Hi! I'm Marco 👋
+Second-year software development student @ Alfa-College where I focus on embedded systems and cybersecuritysecurity
 
-Second-year software development student at Alfa-College, focusing on embedded systems and security stuff.
-
-Currently working on creating crackme's to learn reverse engineering and doing various ESP32 projects for school.
-
-Most of my work is in C/C++, but I've been exploring Go and PHP lately.
-
-**Operating Systems:**
-These are some operating systems I have used in the past, whether it was virtualized or native.
-- Linux: Arch, Ubuntu, Fedora, Mint, Debian
-- FreeBSD
-- macOS
-- Windows: Vista through 11 (+ Server administration on server editions 2016-2021)
+Currently at an internship @ [Boikon](https://www.boikon.com) where I do Computer Vision in C++ with OpenCV.
 
 **Hardware:**
-- Desktop: Ryzen 7 7800X3D, 32GB RAM, RTX 4070 Ti (Arch Linux)
-- Laptop: MacBook Pro 16" M1 Pro, 16GB (macOS, Aerospace WM)
+- Desktop: Ryzen 7 7800X3D, 32GB RAM, RTX 5080 (CachyOS with Hyprland)
+- Laptop: MacBook Pro 16" M1 Pro, 16GB (macOS with Aerospace)
 
-Interested in reverse engineering, systems programming, and low-level security work. Eventually aiming for cybersecurity roles in defense.
+Interested in reverse engineering, systems programming and low-level security work. 
 
 Some projects worth checking out:
-- [c4](https://git.marco007.dev/marco/c4) - custom language transpiler to C99
-- [binary tree search](https://git.marco007.dev/marco/binary-search-tree) - a project to learn about bst's and how they work
+- [SaveManager](https://codeberg.org/marco007/SaveManager) - A cross-platform game save backup utility.
+- [crackmes](https://git.marco007.dev/marco/crackme) - Some simple programs I made/make to learn reverse engineering using my own code. 
+<!-- - [San Andreas Grand Prix](https://git.marco007.dev/marco/san-andreas-gp) - A gamemode for SA:MP (unfinished) -->
+<!-- - [MiniSQL](https://git.marco007.dev/marco/MiniSQL) - A small SQL engine written in C++23. -->
+- [Nisaba](https://git.marco007.dev/marco/nisaba) - Lightweight chat-app in the terminal, written in C++23 and libsodium.
+- [ESP32 Command & Control](https://git.marco007.dev/marco/esp32-command-control) - Handler/Agent-like network for ESP32's using basic encryption & ESP-NOW 
+- [Caesar Cipher](https://git.marco007.dev/marco/caesar-cipher) - My first C project (Ignorning the plunge I took in C++ in ~2019)
+- [stash.cs](https://git.marco007.dev/marco/stash.cs) - Simple CLI to create temporary backups of files.
 
-GitHub: [@msh31](https://github.com/msh31/) - yes, a lot of repo's are missing there.
+GitHub: [@msh31](https://github.com/msh31/) - A limited mirror of my forgejo account.
+Codeberg: [@marco007](https://codeberg.org/marco007) - A regular mirror for anything worth sharing.
