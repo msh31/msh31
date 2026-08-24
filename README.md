@@ -27,6 +27,6 @@ Third-year software development student doing systems programming and reverse en
     - [RE Challenges](https://git.marco007.dev/marco/solved_crackmes) - Documentation of [crackmes](https://en.wikipedia.org/wiki/Crackme) I have managed to solve from [crackmes.one](https://crackmes.one)
 
 #### Other cool projects
-- [RAGE Mod Manager](https://git.marco007.dev/marco/RAGEModManager) - A work in progress mod manager for Rockstar Games using the [RAGE](https://en.wikipedia.org/wiki/Rockstar_Advanced_Game_Engine) game engine.
-- [brainfuck-rs](https://github.com/msh31/brainfuck-rs) - A [brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter.
-- [BrowserBench](https://git.marco007.dev/marco/browser-bench) - A utility to benchmark the memory usage of various browsers.
+- [Desktop Template](https://github.com/msh31/desktop-app-template) - A C++ template for building cross-platform desktop apps with ImGui and OpenGL
+- [icon-converter](https://git.marco007.dev/marco/icon-converter) - A simple program to convert Unicode codepoints (hex) to UTF-8 byte sequences
+- [c4](https://git.marco007.dev/marco/c4.git) - My programming language that transpiles to C, written in C99 that is **NOT** finished
