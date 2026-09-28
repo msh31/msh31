@@ -1,27 +1,26 @@
 ## Hi! I'm Marco 👋
-Third-year software development student focused on systems programming and reverse engineering. 
+Third-year software development student focused on systems programming since 2016 and reverse engineering since 2018.
 
-## Currently Focusing on
-- C++23
-- Desktop Apps 
-- Reverse Engineering
-
-## History
-- **2016**: Got interested in software and hardware, starting out with C# WinForms apps & simple game trainers
-- **2018**: Started doing reverse engineering where I learnt to use tools like [x64dbg](https://github.com/x64dbg/x64dbg) and [Cheat Engine](https://github.com/cheat-engine/cheat-engine). 
-- **2020**: Co-developed and maintained a commercial game modification, gaining experience with releases, user support, and feedback-driven development.
-- **2021**: Developed several mod extensions for various games.
-- **2023**: Finished my general IT education and started to focus on software.
-- **Today**: Finishing the 3rd (final) year of software development before moving on to study [Mechatronics](https://en.wikipedia.org/wiki/Mechatronics)
-
-## Projects
-- [SaveManager](https://github.com/msh31/SaveManager) - A cross-platform game save backup utility with 20+ stars.
-- [ESP32 Command & Control](https://git.marco007.dev/marco/esp32-command-control) - Distributed controller/agent network for ESP32 devices using ESP-NOW.
-- [Crackme](https://git.marco007.dev/marco/crackme) - Simple programs I made to learn reverse engineering using my own code. 
-    - [RE Challenges](https://git.marco007.dev/marco/solved_crackmes) - Documentation of [crackmes](https://en.wikipedia.org/wiki/Crackme) I have managed to solve from [crackmes.one](https://crackmes.one)
-
-#### Other cool projects
+## Top Projects
+- [SaveManager](https://github.com/msh31/SaveManager) - A cross-platform game save backup utility.
 - [Desktop Template](https://github.com/msh31/desktop-app-template) - A C++ template for building cross-platform desktop apps with ImGui and OpenGL
-- [icon-converter](https://git.marco007.dev/marco/icon-converter) - A program to convert Unicode codepoints (hex) to UTF-8 byte sequences
-- [c4](https://git.marco007.dev/marco/c4.git) - My programming language that transpiles to C, written in C99 that is **NOT** finished
-- [savegame research](https://github.com/msh31/rage-save-research) - My research of parsing the data inside [RAGE Engine](https://en.wikipedia.org/wiki/Rockstar_Advanced_Game_Engine) savegames
+- [Kev1n](https://github.com/msh31/kev1n) - A simple simulator being driven autonomously by [Kev](https://github.com/jaredpalmer/kev)
+
+## Achievements
+**2020**: Co-developed and maintained a commercial game modification used by **1000+** users, gaining experience with user-support, releases and feedback-driven development.  
+**2026**: Completed software development internship at [Boikon](https://www.boikon.nl/)  
+**2026**: First FOSS project to gain popularity and sitting at **20+** stars  
+
+## Tooling
+![C++23](https://img.shields.io/badge/C++23-00599C?logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white)
+![ImGui](https://img.shields.io/badge/ImGui-294A7A)
+![x64dbg](https://img.shields.io/badge/x64dbg-4CB5E8)
+![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-E91A12)
+#### Also have experience with
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-555555)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
