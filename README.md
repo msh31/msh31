@@ -8,8 +8,10 @@ Third-year software development student focused on systems programming since 201
 
 ## Achievements
 **2020**: Co-developed and maintained a commercial game modification used by **1000+** users, gaining experience with user-support, releases and feedback-driven development.  
-**2026**: Completed software development internship at [Boikon](https://www.boikon.nl/)  
-**2026**: First FOSS project to gain popularity and sitting at **20+** stars  
+
+**2026**: Completed software development internship at [Boikon](https://www.boikon.nl/) and received a performance bonus
+
+**2026**: [SaveManager](https://github.com/msh31/SaveManager) became my first FOSS project to gain popularity and is sitting at **20+** stars  
 
 ## Tooling
 ![C++23](https://img.shields.io/badge/C++23-00599C?logo=cplusplus&logoColor=white)
