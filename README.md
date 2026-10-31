@@ -14,7 +14,7 @@ Third-year software development student focused on systems programming since 201
 **2026**: [SaveManager](https://github.com/msh31/SaveManager) became my first FOSS project to gain popularity and is sitting at **20+** stars  
 
 ## Other projects
-- [C4](https://git.marco007.dev/marco/c4) - My own programming language that transpiles to C, written in C99
+- [git-id](https://github.com/msh31/git-id) - A pre-push hook for git to prevent identity leaks
 - [ESP32 Command & Control](https://git.marco007.dev/marco/esp32-command-control) - A simple network using esp-now for ESP32 devices
 - [Icocon](https://git.marco007.dev/marco/icon-converter) - CLI tool to convert Unicode codepoints (hex) to UTF-8 byte sequences (for font-awesome fonts)
 - [HTTP1.1 Server](https://github.com/msh31/http-server) - Basic HTTP 1.1 server with multi threading
