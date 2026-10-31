@@ -4,7 +4,7 @@ Third-year software development student focused on systems programming since 201
 ## Top Projects
 - [SaveManager](https://github.com/msh31/SaveManager) - A cross-platform game save backup utility.
 - [Desktop Template](https://github.com/msh31/desktop-app-template) - A C++ template for building cross-platform desktop apps with ImGui and OpenGL
-- [Kev1n](https://github.com/msh31/kev1n) - A simple simulator being driven autonomously by [Kev](https://github.com/jaredpalmer/kev)
+- [Kev1n](https://kev1n.marco007.dev/) - A simple simulator being controlled autonomously by [Kev](https://github.com/jaredpalmer/kev)
 
 ## Achievements
 **2020**: Co-developed and maintained a commercial game modification used by **1000+** users, gaining experience with user-support, releases and feedback-driven development.  
@@ -12,6 +12,12 @@ Third-year software development student focused on systems programming since 201
 **2026**: Completed software development internship at [Boikon](https://www.boikon.nl/) and received a performance bonus
 
 **2026**: [SaveManager](https://github.com/msh31/SaveManager) became my first FOSS project to gain popularity and is sitting at **20+** stars  
+
+## Other projects
+- [C4](https://git.marco007.dev/marco/c4) - My own programming language that transpiles to C, written in C99
+- [ESP32 Command & Control](https://git.marco007.dev/marco/esp32-command-control) - A simple network using esp-now for ESP32 devices
+- [Icocon](https://git.marco007.dev/marco/icon-converter) - CLI tool to convert Unicode codepoints (hex) to UTF-8 byte sequences (for font-awesome fonts)
+- [HTTP1.1 Server](https://github.com/msh31/http-server) - Basic HTTP 1.1 server with multi threading
 
 ## Tooling
 ![C++23](https://img.shields.io/badge/C++23-00599C?logo=cplusplus&logoColor=white)
@@ -23,6 +29,7 @@ Third-year software development student focused on systems programming since 201
 ![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-E91A12)
 #### Also have experience with
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-555555)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
